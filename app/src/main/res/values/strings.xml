@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMomTimer</string>
+    <string name="apptext">TIME</string>
+    <string name="timer">0</string>
+    <string name="result">NOT YET DONE..!!</string>
+    <string name="thumsup">Thumsup</string>
+</resources>
